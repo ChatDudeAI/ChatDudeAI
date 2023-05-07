@@ -49,6 +49,4 @@ def chat_bot():
                 print('Bot: Thank you! I learned a new response!')
 
 
-
-
 chat_bot()
