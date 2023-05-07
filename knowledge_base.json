@@ -1,104 +1,100 @@
 {
-  "questions": [
-    {
-        "question": "Hello!",
-        "answer": "Hi There!"
-    },
-    {
-        "question": "Hi!",
-        "answer": "Hi"
-    },
-    {
-        "question": "What are the Common Uses and Applications of AI?",
-        "answer": "Your answer here should show that you recognize the far-reaching and practical applications of AI. Still, your answer is up to you because of your understanding of the AI field is what the interviewer is trying to ascertain. If possible, mention those uses most relevant to the potential employer. Possibilities include contract analysis, object detection, and classification for avoidance and navigation, image recognition, content distribution, predictive maintenance, data processing, automation of manual tasks, or data-driven reporting. "
-    },
-    {
-        "question": "What are Intelligent Agents, and How are They Used in AI?",
-        "answer": "Intelligent agents are autonomous entities that use sensors to know what is going on, and then use actuators to perform their tasks or goals. They can be simple or complex and can be programmed to learn to accomplish their jobs better. "
-    },
-    {
-        "question": "What is Tensorflow, and What is It Used For?",
-        "answer": "TensorFlow is an open-source software library initially developed by the Google Brain Team for use in machine learning and neural networks research. It is used for data-flow programming. TensorFlow makes it much easier to build certain AI features into applications, including natural language processing and speech recognition. "
-    },
-    {
-        "question": "What is Machine Learning, and How Does It Relate to AI?",
-        "answer": "Machine learning is a subset of AI. The idea is that machines will \u201clearn\u201d and get better at tasks over time rather than having humans continually having to input parameters. Machine learning is a practical application of AI. "
-    },
-    {
-        "question": "What are Neural Networks, and How Do They Relate to AI?",
-        "answer": "Neural networks are a class of machine learning algorithms. The neuron part of the neural is the computational component, and the network part is how the neurons are connected. Neural networks pass data among themselves, gathering more and more meaning as the data moves along. Because the networks are interconnected, more complex data can be processed more efficiently."
-    },  
-    {
-        "question": "What is Deep Learning, and How Does It Relate to AI?",
-        "answer": "Deep learning is a subset of machine learning. It refers to using multi-layered neural networks to process data in increasingly sophisticated ways, enabling the software to train itself to perform tasks like speech and image recognition through exposure to these vast amounts of data for continual improvement in the ability to recognize and process information. Layers of neural networks stacked on top of each for use in deep learning are called deep neural networks."
-    },
-    {
-        "question": "Why is Image Recognition a Key Function of AI?",
-        "answer": "Humans are visual, and AI is designed to emulate human brains. Therefore, teaching machines to recognize and categorize images is a crucial part of AI. Image recognition also helps machines to learn (as in machine learning) because the more images that are processed, the better the software gets at recognizing and processing those images. "
-    },
-    {
-        "question": "What is Automatic Programming?",
-        "answer": "Automatic programming is describing what a program should do, and then having the AI system “write” the program."
-    },
-    {
-        "question": "What is a Bayesian Network, and How Does It Relate to AI?",
-        "answer": "A Bayesian network is a graphical model for probabilistic relationships among a set of variables. It mimics the human brain in processing variables."
-    },
-    {
-        "question": "What are Constraint Satisfaction Problems?",
-        "answer": "Constraint Satisfaction Problems (CSPs) are mathematical problems defined as a set of objects, the state of which must meet several constraints. CSPs are useful for AI because the regularity of their formulation offers commonality for analyzing and solving problems."
-    },
-    {
-        "question": "What is Supervised Versus Unsupervised Learning?",
-        "answer": " Supervised learning is a machine learning process in which outputs are fed back into a computer for the software to learn from, for more accurate results the next time. With supervised learning, the “machine” receives initial training to start. In contrast, unsupervised learning means a computer will learn without initial training to base its knowledge."
-    },
-    {
-        "question": "What Role Does Computer Vision Play in AI?",
-        "answer": "Artificial intelligence (AI) is broken down into a number of subfields, one of which is known as computer vision. Computer vision is the process of teaching computers to understand and collect data from the visual environment, such as graphics. Therefore, AI technology is used by computer vision in order to address complicated challenges such as image analysis, object identification, and other similar issues."
-    },
-    {
-        "question": "How Does the Strong AI Differ From the Weak AI?",
-        "answer": "The goal of strong artificial intelligence is to create actual intelligence artificially, which refers to an intellect created by humans that possesses feelings, consciousness, and emotions comparable to those of humans. The idea of creating AI entities with perceiving, analyzing, and decision-making skills comparable to those of humans is still only an assumption at this point. The present phase of artificial intelligence research is known as “weak AI” and it is concerned with the construction of expert systems and robots that can assist people and solve challenging real-world issues. Weak artificial intelligence systems like Alexa, Siri And ChatDudeAi are examples."
-    },
-    {
-        "question": "Where Does Artificial Intelligence Go From Here?",
-        "answer": "It is anticipated that artificial intelligence will continue to have a significant impact on a large number of people as well as almost every sector. Artificial intelligence has become the primary impetus behind the development of new technologies such as robots, the Internet of Things, and large data sets. AI is capable of making an ideal judgment in a split second, which is almost difficult for a person to do. Cancer treatment, cutting-edge global climate solutions, smart transportation, and space research are all being aided by AI. We don't expect it to renounce its position as the driving force behind computer innovation and progress any time soon. Artificial Intelligence will have a greater influence on the globe than any other technological advancement in human history."
-    },
-    {
-        "question": " What Do You Comprehend by the Phrase “Reward Maximization”?",
-        "answer": "Reinforcement learning uses the phrase “reward maximization” to describe the purpose of the agent, which is to maximize rewards. Real-world rewards are positive feedback for doing an action that results in a change in a state. A reward is given to the agent if he uses optimum policies to complete a good deed, and a reward is deducted if he fails to do so. Rewards are maximized by using the best rules possible, which is known as reward maximization."
-    },
-    {
-        "question": "What is Your Comprehension of Hyperparameters?",
-        "answer": "The training process is controlled by hyperparameters. Model train performance is directly influenced by these factors, which may be changed to one's liking. They are made known in advance. Algorithm hyperparameters that have no influence on simulation results but can influence the efficiency and acquisition of skills are the other two categories of hyperparameters that may be inferred when accommodating the machine to the learning algorithm."
-    },
-    {
-        "question": "What is a Chatbot?",
-        "answer": "A chatbot is a computer program with artificial intelligence (AI) that can converse with humans using natural language processing. The communication may take place on a website, via an application, or through one of the several messaging applications. These chatbots, which are often referred to as digital assistants, are capable of interacting with people either via the exchange of text or by voice commands. The majority of companies now make extensive use of AI chatbots in order to provide round-the-clock, virtual customer service to their clientele."
-    },
-    {
-        "question": "What is Artificial Intelligence?",
-        "answer": "The replication of human intellectual processes by machines, particularly computer systems, is known as artificial intelligence. Expert systems, natural language processing, speech recognition, and machine vision are examples of AI applications. AI is significant because it may provide organizations with previously unknown insights into their operations and, in some situations, can do tasks better than people. Particularly when it comes to repetitive, detail-oriented activities like verifying key fields on legal documents are filled out correctly, AI systems typically complete tasks quickly and with minimal errors."
-    },
-    {
-        "question": "What are Different Platforms for Artificial Intelligence (AI) Development?",
-        "answer": "Some of the best Artificial Intelligence Platforms are Google AI Platform, Microsoft Azure, TensorFlow, Infosys Nia, Rainbird, Wipro HOLMES, Premonition, Dialogflow, Ayasdi, Meya, MindMeld, KAI, Wit, Vital A.I, Receptiviti, Lumiata, Watson Studio, and Infrrd."
-    },
-    {
-        "question": "What are the Programming Languages Used for Artificial Intelligence?",
-        "answer": "Python is the most popular AI programming language; it's one of the trendiest languages out there, and it's also simple to learn! Python is a high-level, interpreted programming language with dynamic semantics. For quick development, it is particularly appealing because of its high-level data structures and dynamic typing."
-    },
-    {
-        "question": "What is the Future of Artificial Intelligence?",
-        "answer": "Machine learning and natural language processing are projected to advance further in the artificial intelligence future (AI), resulting in the creation of more complex and autonomously AI systems. These systems may be used in a wide range of applications, such as autonomous vehicles, personal assistants, and intelligent robots. Additionally, AI is expected to play a significant role in areas such as healthcare, finance, and manufacturing. However, as AI becomes more advanced and integrated into society, it is also important to consider the ethical and societal implications of this technology and to ensure that it is developed and used responsibly."
-    },
-    {
-        "question": "What is the Difference Between Artificial Intelligence, Machine Learning, and Deep Learning?",
-        "answer": "Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) are related but distinct fields of study. Artificial Intelligence (AI) is a broad field that encompasses a variety of techniques and approaches for creating intelligent systems that can perform tasks that typically require human intelligence, such as understanding natural language, recognizing speech, and making decisions. Machine Learning (ML) is a subset of AI that involves the development of algorithms and statistical models that enable systems to improve their performance over time by learning from data. Machine learning algorithms can be categorized into three main categories: supervised learning, unsupervised learning, and reinforcement learning. Deep Learning (DL) is a subset of ML that involves the use of neural networks, a type of model inspired by the structure and function of the human brain, to learn from data. Deep learning techniques are particularly well-suited for tasks such as image and speech recognition, and are often used in natural language processing and computer vision applications. In summary, AI is the broad field of creating intelligent systems, ML is a subset of AI that uses algorithms to learn from data and make predictions, and DL is a subset of ML that uses neural networks to learn from data."
-    },
-    {
-        "question": "How are Artificial Intelligence and Machine Learning Related?",
-        "answer": "Artificial Intelligence (AI) is a broad field that encompasses a variety of techniques and approaches for creating intelligent systems that can perform tasks that typically require human intelligence, such as recognizing speech, understanding natural language, and making decisions. Machine Learning (ML), on the other hand, is a specific approach to achieving AI. It involves the development of algorithms and statistical models that enable systems to improve their performance over time by learning from data. Machine learning algorithms can be categorized into three main categories: supervised learning, unsupervised learning, and reinforcement learning."
-    }
-  ]
+    "questions": [
+        {
+            "question": "Hello!",
+            "answer": "Hi There!"
+        },
+        {
+            "question": "What are the Common Uses and Applications of AI?",
+            "answer": "Your answer here should show that you recognize the far-reaching and practical applications of AI. Still, your answer is up to you because of your understanding of the AI field is what the interviewer is trying to ascertain. If possible, mention those uses most relevant to the potential employer. Possibilities include contract analysis, object detection, and classification for avoidance and navigation, image recognition, content distribution, predictive maintenance, data processing, automation of manual tasks, or data-driven reporting. "
+        },
+        {
+            "question": "What are Intelligent Agents, and How are They Used in AI?",
+            "answer": "Intelligent agents are autonomous entities that use sensors to know what is going on, and then use actuators to perform their tasks or goals. They can be simple or complex and can be programmed to learn to accomplish their jobs better. "
+        },
+        {
+            "question": "What is Tensorflow, and What is It Used For?",
+            "answer": "TensorFlow is an open-source software library initially developed by the Google Brain Team for use in machine learning and neural networks research. It is used for data-flow programming. TensorFlow makes it much easier to build certain AI features into applications, including natural language processing and speech recognition. "
+        },
+        {
+            "question": "What is Machine Learning, and How Does It Relate to AI?",
+            "answer": "Machine learning is a subset of AI. The idea is that machines will \u201clearn\u201d and get better at tasks over time rather than having humans continually having to input parameters. Machine learning is a practical application of AI. "
+        },
+        {
+            "question": "What are Neural Networks, and How Do They Relate to AI?",
+            "answer": "Neural networks are a class of machine learning algorithms. The neuron part of the neural is the computational component, and the network part is how the neurons are connected. Neural networks pass data among themselves, gathering more and more meaning as the data moves along. Because the networks are interconnected, more complex data can be processed more efficiently."
+        },
+        {
+            "question": "What is Deep Learning, and How Does It Relate to AI?",
+            "answer": "Deep learning is a subset of machine learning. It refers to using multi-layered neural networks to process data in increasingly sophisticated ways, enabling the software to train itself to perform tasks like speech and image recognition through exposure to these vast amounts of data for continual improvement in the ability to recognize and process information. Layers of neural networks stacked on top of each for use in deep learning are called deep neural networks."
+        },
+        {
+            "question": "Why is Image Recognition a Key Function of AI?",
+            "answer": "Humans are visual, and AI is designed to emulate human brains. Therefore, teaching machines to recognize and categorize images is a crucial part of AI. Image recognition also helps machines to learn (as in machine learning) because the more images that are processed, the better the software gets at recognizing and processing those images. "
+        },
+        {
+            "question": "What is Automatic Programming?",
+            "answer": "Automatic programming is describing what a program should do, and then having the AI system \u201cwrite\u201d the program."
+        },
+        {
+            "question": "What is a Bayesian Network, and How Does It Relate to AI?",
+            "answer": "A Bayesian network is a graphical model for probabilistic relationships among a set of variables. It mimics the human brain in processing variables."
+        },
+        {
+            "question": "What are Constraint Satisfaction Problems?",
+            "answer": "Constraint Satisfaction Problems (CSPs) are mathematical problems defined as a set of objects, the state of which must meet several constraints. CSPs are useful for AI because the regularity of their formulation offers commonality for analyzing and solving problems."
+        },
+        {
+            "question": "What is Supervised Versus Unsupervised Learning?",
+            "answer": " Supervised learning is a machine learning process in which outputs are fed back into a computer for the software to learn from, for more accurate results the next time. With supervised learning, the \u201cmachine\u201d receives initial training to start. In contrast, unsupervised learning means a computer will learn without initial training to base its knowledge."
+        },
+        {
+            "question": "What Role Does Computer Vision Play in AI?",
+            "answer": "Artificial intelligence (AI) is broken down into a number of subfields, one of which is known as computer vision. Computer vision is the process of teaching computers to understand and collect data from the visual environment, such as graphics. Therefore, AI technology is used by computer vision in order to address complicated challenges such as image analysis, object identification, and other similar issues."
+        },
+        {
+            "question": "How Does the Strong AI Differ From the Weak AI?",
+            "answer": "The goal of strong artificial intelligence is to create actual intelligence artificially, which refers to an intellect created by humans that possesses feelings, consciousness, and emotions comparable to those of humans. The idea of creating AI entities with perceiving, analyzing, and decision-making skills comparable to those of humans is still only an assumption at this point. The present phase of artificial intelligence research is known as \u201cweak AI\u201d and it is concerned with the construction of expert systems and robots that can assist people and solve challenging real-world issues. Weak artificial intelligence systems like Alexa, Siri And ChatDudeAi are examples."
+        },
+        {
+            "question": "Where Does Artificial Intelligence Go From Here?",
+            "answer": "It is anticipated that artificial intelligence will continue to have a significant impact on a large number of people as well as almost every sector. Artificial intelligence has become the primary impetus behind the development of new technologies such as robots, the Internet of Things, and large data sets. AI is capable of making an ideal judgment in a split second, which is almost difficult for a person to do. Cancer treatment, cutting-edge global climate solutions, smart transportation, and space research are all being aided by AI. We don't expect it to renounce its position as the driving force behind computer innovation and progress any time soon. Artificial Intelligence will have a greater influence on the globe than any other technological advancement in human history."
+        },
+        {
+            "question": " What Do You Comprehend by the Phrase \u201cReward Maximization\u201d?",
+            "answer": "Reinforcement learning uses the phrase \u201creward maximization\u201d to describe the purpose of the agent, which is to maximize rewards. Real-world rewards are positive feedback for doing an action that results in a change in a state. A reward is given to the agent if he uses optimum policies to complete a good deed, and a reward is deducted if he fails to do so. Rewards are maximized by using the best rules possible, which is known as reward maximization."
+        },
+        {
+            "question": "What is Your Comprehension of Hyperparameters?",
+            "answer": "The training process is controlled by hyperparameters. Model train performance is directly influenced by these factors, which may be changed to one's liking. They are made known in advance. Algorithm hyperparameters that have no influence on simulation results but can influence the efficiency and acquisition of skills are the other two categories of hyperparameters that may be inferred when accommodating the machine to the learning algorithm."
+        },
+        {
+            "question": "What is a Chatbot?",
+            "answer": "A chatbot is a computer program with artificial intelligence (AI) that can converse with humans using natural language processing. The communication may take place on a website, via an application, or through one of the several messaging applications. These chatbots, which are often referred to as digital assistants, are capable of interacting with people either via the exchange of text or by voice commands. The majority of companies now make extensive use of AI chatbots in order to provide round-the-clock, virtual customer service to their clientele."
+        },
+        {
+            "question": "What is Artificial Intelligence?",
+            "answer": "The replication of human intellectual processes by machines, particularly computer systems, is known as artificial intelligence. Expert systems, natural language processing, speech recognition, and machine vision are examples of AI applications. AI is significant because it may provide organizations with previously unknown insights into their operations and, in some situations, can do tasks better than people. Particularly when it comes to repetitive, detail-oriented activities like verifying key fields on legal documents are filled out correctly, AI systems typically complete tasks quickly and with minimal errors."
+        },
+        {
+            "question": "What are Different Platforms for Artificial Intelligence (AI) Development?",
+            "answer": "Some of the best Artificial Intelligence Platforms are Google AI Platform, Microsoft Azure, TensorFlow, Infosys Nia, Rainbird, Wipro HOLMES, Premonition, Dialogflow, Ayasdi, Meya, MindMeld, KAI, Wit, Vital A.I, Receptiviti, Lumiata, Watson Studio, and Infrrd."
+        },
+        {
+            "question": "What are the Programming Languages Used for Artificial Intelligence?",
+            "answer": "Python is the most popular AI programming language; it's one of the trendiest languages out there, and it's also simple to learn! Python is a high-level, interpreted programming language with dynamic semantics. For quick development, it is particularly appealing because of its high-level data structures and dynamic typing."
+        },
+        {
+            "question": "What is the Future of Artificial Intelligence?",
+            "answer": "Machine learning and natural language processing are projected to advance further in the artificial intelligence future (AI), resulting in the creation of more complex and autonomously AI systems. These systems may be used in a wide range of applications, such as autonomous vehicles, personal assistants, and intelligent robots. Additionally, AI is expected to play a significant role in areas such as healthcare, finance, and manufacturing. However, as AI becomes more advanced and integrated into society, it is also important to consider the ethical and societal implications of this technology and to ensure that it is developed and used responsibly."
+        },
+        {
+            "question": "What is the Difference Between Artificial Intelligence, Machine Learning, and Deep Learning?",
+            "answer": "Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL) are related but distinct fields of study. Artificial Intelligence (AI) is a broad field that encompasses a variety of techniques and approaches for creating intelligent systems that can perform tasks that typically require human intelligence, such as understanding natural language, recognizing speech, and making decisions. Machine Learning (ML) is a subset of AI that involves the development of algorithms and statistical models that enable systems to improve their performance over time by learning from data. Machine learning algorithms can be categorized into three main categories: supervised learning, unsupervised learning, and reinforcement learning. Deep Learning (DL) is a subset of ML that involves the use of neural networks, a type of model inspired by the structure and function of the human brain, to learn from data. Deep learning techniques are particularly well-suited for tasks such as image and speech recognition, and are often used in natural language processing and computer vision applications. In summary, AI is the broad field of creating intelligent systems, ML is a subset of AI that uses algorithms to learn from data and make predictions, and DL is a subset of ML that uses neural networks to learn from data."
+        },
+        {
+            "question": "How are Artificial Intelligence and Machine Learning Related?",
+            "answer": "Artificial Intelligence (AI) is a broad field that encompasses a variety of techniques and approaches for creating intelligent systems that can perform tasks that typically require human intelligence, such as recognizing speech, understanding natural language, and making decisions. Machine Learning (ML), on the other hand, is a specific approach to achieving AI. It involves the development of algorithms and statistical models that enable systems to improve their performance over time by learning from data. Machine learning algorithms can be categorized into three main categories: supervised learning, unsupervised learning, and reinforcement learning."
+        }
+    ]
 }

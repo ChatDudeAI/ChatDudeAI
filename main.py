@@ -2,13 +2,13 @@ import json
 from difflib import get_close_matches
 
 def load_knowledge_base(file_path: str) -> dict:
-    with open(file_path, 'r') as file:
+    with open(file_path, 'r', encoding="utf-8") as file:
         data: dict = json.load(file)
     return data
 
 
 def save_knowledge_base(file_path: str, data: dict):
-    with open(file_path, 'w') as file:
+    with open(file_path, 'w', encoding="utf-8") as file:
         json.dump(data, file, indent=4)
         
 def find_best_match(user_question: str, questions: list[str]) -> str | None:
@@ -20,8 +20,7 @@ def get_answer_for_question(question: str, knowledge_base: dict) -> str | None:
     for q in knowledge_base["questions"]:
         if q["question"] == question:
             return q["answer"]
-        else:
-            return None
+        return None
 
 
 
