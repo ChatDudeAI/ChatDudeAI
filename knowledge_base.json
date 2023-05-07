@@ -95,6 +95,14 @@
         {
             "question": "How are Artificial Intelligence and Machine Learning Related?",
             "answer": "Artificial Intelligence (AI) is a broad field that encompasses a variety of techniques and approaches for creating intelligent systems that can perform tasks that typically require human intelligence, such as recognizing speech, understanding natural language, and making decisions. Machine Learning (ML), on the other hand, is a specific approach to achieving AI. It involves the development of algorithms and statistical models that enable systems to improve their performance over time by learning from data. Machine learning algorithms can be categorized into three main categories: supervised learning, unsupervised learning, and reinforcement learning."
+        },
+        {
+            "question": "Explain quantum computing in simple terms.",
+            "answer": "Quantum computing is a type of computing that uses quantum bits, or qubits, instead of the binary bits used in traditional computing. While traditional bits can only be in either a 0 or 1 state, qubits can exist in a superposition of both states at the same time. This means that a quantum computer can perform certain calculations much faster than a traditional computer, especially for tasks that involve complex simulations or searching large databases. Additionally, quantum computers can use a phenomenon called entanglement, where two qubits can become linked in such a way that the state of one affects the state of the other, to perform certain types of calculations even faster. However, quantum computing is still a relatively new field, and developing practical quantum computers with enough qubits and stability to be useful for most applications is still a significant challenge."
+        },
+        {
+            "question": "How do I make a HTTP request in JavaScript?",
+            "answer": "To make an HTTP request in JavaScript, you can use the built-in XMLHttpRequest object or the newer fetch() API."
         }
     ]
 }
