@@ -1,5 +1,140 @@
 {
-    "questions": [
-        
-    ]
+  "questions": [
+    {
+      "question": "Hello!",
+      "answer": "Hi There!"
+    },
+    {
+      "question": "Hi!",
+      "answer": "Hi"
+    },
+    {
+      "question": "FHYJKjhtgf",
+      "answer": "rf"
+    },
+    {
+      "question": "",
+      "answer": "fe"
+    },
+    {
+      "question": "re",
+      "answer": ""
+    },
+    {
+      "question": "f",
+      "answer": "fe"
+    },
+    {
+      "question": "rrfre",
+      "answer": "rfr"
+    },
+    {
+      "question": "",
+      "answer": "re"
+    },
+    {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "",
+      "answer": ""
+    },
+    {
+      "question": "",
+      "answer": "f"
+    },
+    {
+      "question": "",
+      "answer": "rf"
+    },
+    {
+      "question": "er",
+      "answer": ""
+    },
+    {
+      "question": "rr",
+      "answer": "rg"
+    },
+    {
+      "question": "rff",
+      "answer": "f"
+    },
+    {
+      "question": "",
+      "answer": "sdefrgty"
+    },
+    {
+      "question": "rtgrgt",
+      "answer": "yh"
+    },
+    {
+      "question": "rgwde",
+      "answer": "frgthy"
+    },
+    {
+      "question": "wfrtgy",
+      "answer": "6u7yht"
+    },
+    {
+      "question": "ty6u78",
+      "answer": "yjhtgrgtyh6uh"
+    },
+    {
+      "question": "ytgrf",
+      "answer": "gthyuj"
+    },
+    {
+      "question": "htgrftgyhu",
+      "answer": "htgrfgtyh"
+    },
+    {
+      "question": "gyhujyh",
+      "answer": "gtfr"
+    },
+    {
+      "question": "g",
+      "answer": ""
+    },
+    {
+      "question": "What are the Common Uses and Applications of AI?",
+      "answer": "Your answer here should show that you recognize the far-reaching and practical applications of AI. Still, your answer is up to you because of your understanding of the AI field is what the interviewer is trying to ascertain. If possible, mention those uses most relevant to the potential employer. Possibilities include contract analysis, object detection, and classification for avoidance and navigation, image recognition, content distribution, predictive maintenance, data processing, automation of manual tasks, or data-driven reporting. "
+    },
+    {
+      "question": "What are Intelligent Agents, and How are They Used in AI?",
+      "answer": "Intelligent agents are autonomous entities that use sensors to know what is going on, and then use actuators to perform their tasks or goals. They can be simple or complex and can be programmed to learn to accomplish their jobs better. "
+    },
+    {
+      "question": "What is Tensorflow, and What is It Used For?",
+      "answer": "TensorFlow is an open-source software library initially developed by the Google Brain Team for use in machine learning and neural networks research. It is used for data-flow programming. TensorFlow makes it much easier to build certain AI features into applications, including natural language processing and speech recognition. "
+    },
+    {
+      "question": "What is Machine Learning, and How Does It Relate to AI?",
+      "answer": "Machine learning is a subset of AI. The idea is that machines will \u201clearn\u201d and get better at tasks over time rather than having humans continually having to input parameters. Machine learning is a practical application of AI. "
+    },
+    {
+        "question": "What are Neural Networks, and How Do They Relate to AI?",
+        "answer": "Neural networks are a class of machine learning algorithms. The neuron part of the neural is the computational component, and the network part is how the neurons are connected. Neural networks pass data among themselves, gathering more and more meaning as the data moves along. Because the networks are interconnected, more complex data can be processed more efficiently."
+    },  
+    {
+        "question": "What is Deep Learning, and How Does It Relate to AI?",
+        "answer": "Deep learning is a subset of machine learning. It refers to using multi-layered neural networks to process data in increasingly sophisticated ways, enabling the software to train itself to perform tasks like speech and image recognition through exposure to these vast amounts of data for continual improvement in the ability to recognize and process information. Layers of neural networks stacked on top of each for use in deep learning are called deep neural networks."
+    },
+    {
+        "question": "Why is Image Recognition a Key Function of AI?",
+        "answer": "Humans are visual, and AI is designed to emulate human brains. Therefore, teaching machines to recognize and categorize images is a crucial part of AI. Image recognition also helps machines to learn (as in machine learning) because the more images that are processed, the better the software gets at recognizing and processing those images. "
+    },
+    {
+        "question": "What is Automatic Programming?",
+        "answer": "Automatic programming is describing what a program should do, and then having the AI system “write” the program."
+    },
+    {
+        "question": "What is a Bayesian Network, and How Does It Relate to AI?",
+        "answer": "A Bayesian network is a graphical model for probabilistic relationships among a set of variables. It mimics the human brain in processing variables."
+    },
+    {
+        "question": "What are Constraint Satisfaction Problems?",
+        "answer": "Constraint Satisfaction Problems (CSPs) are mathematical problems defined as a set of objects, the state of which must meet several constraints. CSPs are useful for AI because the regularity of their formulation offers commonality for analyzing and solving problems."
+    }
+]
 }
