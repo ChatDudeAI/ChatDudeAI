@@ -13,16 +13,16 @@
       "answer": "Your answer here should show that you recognize the far-reaching and practical applications of AI. Still, your answer is up to you because of your understanding of the AI field is what the interviewer is trying to ascertain. If possible, mention those uses most relevant to the potential employer. Possibilities include contract analysis, object detection, and classification for avoidance and navigation, image recognition, content distribution, predictive maintenance, data processing, automation of manual tasks, or data-driven reporting. "
     },
     {
-      "question": "What are Intelligent Agents, and How are They Used in AI?",
-      "answer": "Intelligent agents are autonomous entities that use sensors to know what is going on, and then use actuators to perform their tasks or goals. They can be simple or complex and can be programmed to learn to accomplish their jobs better. "
+        "question": "What are Intelligent Agents, and How are They Used in AI?",
+        "answer": "Intelligent agents are autonomous entities that use sensors to know what is going on, and then use actuators to perform their tasks or goals. They can be simple or complex and can be programmed to learn to accomplish their jobs better. "
     },
     {
-      "question": "What is Tensorflow, and What is It Used For?",
-      "answer": "TensorFlow is an open-source software library initially developed by the Google Brain Team for use in machine learning and neural networks research. It is used for data-flow programming. TensorFlow makes it much easier to build certain AI features into applications, including natural language processing and speech recognition. "
+        "question": "What is Tensorflow, and What is It Used For?",
+        "answer": "TensorFlow is an open-source software library initially developed by the Google Brain Team for use in machine learning and neural networks research. It is used for data-flow programming. TensorFlow makes it much easier to build certain AI features into applications, including natural language processing and speech recognition. "
     },
     {
-      "question": "What is Machine Learning, and How Does It Relate to AI?",
-      "answer": "Machine learning is a subset of AI. The idea is that machines will \u201clearn\u201d and get better at tasks over time rather than having humans continually having to input parameters. Machine learning is a practical application of AI. "
+        "question": "What is Machine Learning, and How Does It Relate to AI?",
+        "answer": "Machine learning is a subset of AI. The idea is that machines will \u201clearn\u201d and get better at tasks over time rather than having humans continually having to input parameters. Machine learning is a practical application of AI. "
     },
     {
         "question": "What are Neural Networks, and How Do They Relate to AI?",
