@@ -20,7 +20,8 @@ def get_answer_for_question(question: str, knowledge_base: dict) -> str | None:
     for q in knowledge_base["questions"]:
         if q["question"] == question:
             return q["answer"]
-    return None
+        else:
+            return None
 
 
 
