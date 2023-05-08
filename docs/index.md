@@ -1,1 +1,2 @@
-
+* auto-gen TOC:
+{:toc}
