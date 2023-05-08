@@ -7,7 +7,7 @@ from pprint import pprint
 def load_toml() -> dict:
     '''Load TOML Data From File'''
     
-    with  open('config.toml', 'rb') as d:
+    with  open('config.toml', 'rb') as f:
         toml_data: dict = tomllib.load(f)
         return toml_data
     
