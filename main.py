@@ -1,16 +1,13 @@
 import json
-import tomllib
 from difflib import get_close_matches
 from pprint import pprint
 
+def backup() -> dict:
+    with open('info.json', 'r', encoding="utf-8") as f:
+        dat: dict = json.load(f)
+        return dat
 
-def load_toml() -> dict:
-    '''Load TOML Data From File'''
-    
-    with  open('config.toml', 'rb') as f:
-        toml_data: dict = tomllib.load(f)
-        return toml_data
-    
+
 def load_knowledge_base(file_path: str) -> dict:
     with open(file_path, 'r', encoding="utf-8") as file:
         data: dict = json.load(file)
@@ -33,11 +30,11 @@ def get_answer_for_question(question: str, knowledge_base: dict) -> str | None:
         return None
 
 
-
+print(None)
 def chat_bot():
     knowledge_base: dict = load_knowledge_base('knowledge_base.json')
-    data: dict = load_toml()
-    pprint(data, sort_dicts=False)
+    toml: dict = backup()
+    pprint(toml, sort_dicts=False)
     
     while True:
         user_input: str = input("You: ")
