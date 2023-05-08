@@ -102,7 +102,7 @@
         },
         {
             "question": "How do I make a HTTP request in JavaScript?",
-            "answer": "To make an HTTP request in JavaScript, you can use the built-in XMLHttpRequest object or the newer fetch() API."
+            "answer": "To make an HTTP request in JavaScript, you can use the built-in XMLHttpRequest object or the newer fetch API."
         }
     ]
 }
