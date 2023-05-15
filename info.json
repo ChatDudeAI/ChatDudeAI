@@ -1,5 +1,5 @@
 {
-    "model": "ChatDudeAI",
-    "version": "6",
-    "license": "GPL-3"
+  "model": "ChatDudeAI",
+  "version": "6.5",
+  "license": "GPL-3"
 }

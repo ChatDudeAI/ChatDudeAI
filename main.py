@@ -1,6 +1,7 @@
 import json
 from difflib import get_close_matches
 from pprint import pprint
+from time import sleep
 
 def backup() -> dict:
     with open('info.json', 'r', encoding="utf-8") as f:
@@ -16,7 +17,7 @@ def load_knowledge_base(file_path: str) -> dict:
 
 def save_knowledge_base(file_path: str, data: dict):
     with open(file_path, 'w', encoding="utf-8") as file:
-        json.dump(data, file, indent=4)
+        json.dump(data, file, indent=2)
         
 def find_best_match(user_question: str, questions: list[str]) -> str | None:
     matches: list = get_close_matches(user_question, questions, n=1, cutoff=0.6)
@@ -27,7 +28,7 @@ def get_answer_for_question(question: str, knowledge_base: dict) -> str | None:
     for q in knowledge_base["questions"]:
         if q["question"] == question:
             return q["answer"]
-        return None
+    return None
 
 
 print(None)
@@ -42,12 +43,14 @@ def chat_bot():
         if user_input.lower() == 'quit':
             break
         
-        best_match: str | None = find_best_match(user_input, [q['question'] for q in knowledge_base["questions"]])
+        best_match: str = find_best_match(user_input, [q['question'] for q in knowledge_base["questions"]])
         
         if best_match:
+            sleep(1.0)
             answer: str = get_answer_for_question(best_match, knowledge_base)
             print(f'Bot: {answer}')
         else:
+            sleep(1.0)
             print('Bot: I don\'t know the answer. Can you please clarify?')
             new_answer: str = input('Type the answer or "skip" to skip: ')
             
