@@ -43,6 +43,22 @@
     {
       "question": "hello",
       "answer": "Hi"
+    },
+    {
+      "question": "Hi ChatDudeAI",
+      "answer": "Hello!"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello@"
+    },
+    {
+      "question": "Why did the cookie feel sad?",
+      "answer": "Because he was feeling crummy!"
+    },
+    {
+      "question": "Play Jeopardy!",
+      "answer": "Here Is Jeopardy: https://pizzaprogrammer.itch.io/jeopardy"
     }
   ]
 }
