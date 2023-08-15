@@ -1,4 +1,5 @@
 import json
+import webbrowser
 from difflib import get_close_matches
 from pprint import pprint
 from time import sleep
@@ -46,6 +47,8 @@ def chat_bot():
         best_match: str = find_best_match(user_input, [q['question'] for q in knowledge_base["questions"]])
         
         if best_match:
+            if best_match == "Play Jeopardy!":
+                webbrowser.open("https://pizzaprogrammer.itch.io/jeopardy")
             sleep(1.0)
             answer: str = get_answer_for_question(best_match, knowledge_base)
             print(f'Bot: {answer}')
