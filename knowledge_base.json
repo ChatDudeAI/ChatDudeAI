@@ -59,6 +59,14 @@
     {
       "question": "Play Jeopardy!",
       "answer": "Here Is Jeopardy: https://pizzaprogrammer.itch.io/jeopardy"
+    },
+    {
+      "question": "lets play",
+      "answer": "what game (Jeopardy or Wordle)"
+    },
+    {
+      "question": "yes or no",
+      "answer": "no"
     }
   ]
 }
